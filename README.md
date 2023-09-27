@@ -8,6 +8,7 @@ The goal is to eventually cover [all formats supported by Immich](https://github
 
 - JPEG
 - HEIC
+- PNG
 
 The following raw formats are currently included:
 
