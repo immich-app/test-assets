@@ -15,4 +15,6 @@ The following raw formats are currently included:
 - NEF (Nikon D80)
 - NEF (Nikon D700)
 
-We also aim to include sidecar metadata files.
+The following sidecar formats are currently included:
+
+- XMP
